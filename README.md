@@ -44,13 +44,6 @@ matplotlib
 seaborn
 plotly express (optional)
 geopandas (optional)
-▶️ How to Run/View the Project
-Clone the repository:
-
-Open the Jupyter Notebook in VS Code or Jupyter Lab.
-Run all cells from top to bottom.
-Ensure all visualizations and outputs are displayed correctly.
-💡 Insights & Reflections
 Countries with early vaccination rollouts saw a faster decline in new cases.
 Death rates varied significantly across regions.
 Some countries had data inconsistencies or gaps, highlighting the importance of data cleaning.
