@@ -1,17 +1,22 @@
 # COVID-19-Global-Data-Tracker-ProjectCOVID-19 Global Data Tracker
 📌 Project Description
+
 This project is a data analysis and visualization notebook that tracks global COVID-19 trends. It analyzes cases, deaths, recoveries, and vaccinations across countries and over time. Learners will clean and process real-world data, perform exploratory data analysis (EDA), generate insights, and visualize trends using Python data tools.
 
 By the end of the project, you'll have a comprehensive data report with visuals and narrative insights, suitable for presentation or publishing.
 
 🎯 Project Objectives
+
 ✅ Import and clean COVID-19 global data
 ✅ Analyze time trends (cases, deaths, vaccinations)
 ✅ Compare metrics across countries/regions
 ✅ Visualize trends with charts and maps
 ✅ Communicate findings in a Jupyter Notebook or PDF report
+
 🗂️ Project Segments
+
 1️⃣ Data Collection
+
 Source: Our World in Data and Johns Hopkins University GitHub
 Recommended: owid-covid-data.csv
 2️⃣ Data Loading & Exploration
@@ -30,6 +35,7 @@ Tools: plotly express, geopandas
 Task: Visualize global case/vaccination density
 7️⃣ Insights & Reporting
 Deliverable: A well-documented Jupyter Notebook with code, visuals, and narrative insights
+
 🛠️ Tools & Libraries Used
 Python
 Jupyter Notebook
