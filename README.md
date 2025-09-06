@@ -1,4 +1,4 @@
-# COVID-19-Global-Data-Tracker-ProjectCOVID-19 Global Data Tracker
+# COVID-19-Global-Data-Tracker
 📌 Project Description
 
 This project is a data analysis and visualization notebook that tracks global COVID-19 trends. It analyzes cases, deaths, recoveries, and vaccinations across countries and over time. Learners will clean and process real-world data, perform exploratory data analysis (EDA), generate insights, and visualize trends using Python data tools.
